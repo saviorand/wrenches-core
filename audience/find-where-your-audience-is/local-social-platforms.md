@@ -1,28 +1,58 @@
-# Local social platforms
+# Social platforms worldwide
 
-#### Western
-
-{% page-ref page="../../products/twitter.md" %}
+#### Global
 
 {% page-ref page="../../products/facebook.md" %}
 
+{% page-ref page="../../products/youtube.md" %}
+
+{% page-ref page="../../products/whatsapp.md" %}
+
+{% page-ref page="../../products/instagram.md" %}
+
 {% page-ref page="../../products/telegram.md" %}
 
-{% page-ref page="../../products/quora.md" %}
+{% page-ref page="../../products/tumblr.md" %}
+
+{% page-ref page="../../products/twitter.md" %}
 
 {% page-ref page="../../products/reddit.md" %}
 
-{% page-ref page="../../products/slack.md" %}
-
 {% page-ref page="../../products/linkedin.md" %}
 
+{% page-ref page="../../products/viber.md" %}
 
+{% page-ref page="../../products/quora.md" %}
+
+{% page-ref page="../../products/snapchat.md" %}
+
+{% page-ref page="../../products/pinterest.md" %}
+
+{% page-ref page="../../products/slack.md" %}
+
+#### 
 
 #### Chinese
 
-#### South-East Asian
+{% page-ref page="../../products/weixin-wechat.md" %}
+
+{% page-ref page="../../products/qq.md" %}
+
+{% page-ref page="../../products/qzone.md" %}
+
+{% page-ref page="../../products/douyin-tiktok.md" %}
+
+{% page-ref page="../../products/sina-weibo.md" %}
+
+{% page-ref page="../../products/baidu-tieba.md" %}
+
+
 
 #### Japanese
+
+{% page-ref page="../../products/line.md" %}
+
+
 
 #### Latinoamerican
 

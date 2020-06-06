@@ -11,7 +11,7 @@
   * [Designer communities](audience/find-where-your-audience-is/designer-communities.md)
   * [Travel and nomad communities](audience/find-where-your-audience-is/travel-and-nomad-communities.md)
   * [Creator communities](audience/find-where-your-audience-is/creator-communities.md)
-  * [Local social platforms](audience/find-where-your-audience-is/local-social-platforms.md)
+  * [Social platforms worldwide](audience/find-where-your-audience-is/local-social-platforms.md)
 * [Get to know your audience](audience/get-to-know-your-audience.md)
 
 ## Ideation
@@ -44,12 +44,34 @@
 
 * [Build an organization](standartization/build-an-organization.md)
 
+## Methods
+
+* [Untitled](methods/untitled.md)
+
+## Teams
+
+* [Narative](teams/narative.md)
+* [Open AI](teams/open-ai.md)
+* [Toutiao \(Bytedance\)](teams/toutiao-bytedance.md)
+
 ## Products
 
 * [Make my Persona](products/make-my-persona.md)
 * [Gumroad](products/gumroad.md)
 * [Twitter](products/twitter.md)
 * [Facebook](products/facebook.md)
+* [Instagram](products/instagram.md)
+* [YouTube](products/youtube.md)
+* [WhatsApp](products/whatsapp.md)
+* [Line](products/line.md)
+* [Viber](products/viber.md)
+* [Tumblr](products/tumblr.md)
+* [Weixin \(WeChat\)](products/weixin-wechat.md)
+* [Snapchat](products/snapchat.md)
+* [QQ](products/qq.md)
+* [QZone](products/qzone.md)
+* [Douyin \(TikTok\)](products/douyin-tiktok.md)
+* [Sina Weibo](products/sina-weibo.md)
 * [Telegram](products/telegram.md)
 * [Hacker News](products/hacker-news.md)
 * [Github](products/github.md)
@@ -80,22 +102,16 @@
 * [Dribbble](products/untitled-9.md)
 * [Behance](products/behance.md)
 * [DeviantArt](products/deviantart.md)
+* [Pinterest](products/pinterest.md)
 * [DesignerNews](products/designernews.md)
 * [Prototypr](products/prototypr.md)
 * [NomadList](products/nomadlist.md)
 * [Workew](products/workew.md)
 * [Write Together](products/write-together.md)
+* [Medium](products/medium.md)
 * [Quora](products/quora.md)
 * [Reddit](products/reddit.md)
+* [Baidu Tieba](products/baidu-tieba.md)
 * [Slack](products/slack.md)
 * [LinkedIn](products/linkedin.md)
-
-## Methods
-
-* [Untitled](methods/untitled.md)
-
-## Teams
-
-* [Narative](teams/narative.md)
-* [Open AI](teams/open-ai.md)
 
