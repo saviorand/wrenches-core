@@ -69,3 +69,8 @@
 
 * [Untitled](methods/untitled.md)
 
+## Teams
+
+* [Narative](teams/narative.md)
+* [Open AI](teams/open-ai.md)
+
