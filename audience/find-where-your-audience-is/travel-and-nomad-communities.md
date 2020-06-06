@@ -2,7 +2,15 @@
 
 
 
-### Nomads
+### Digital nomads
 
-* [Nomad List](https://nomadlist.com/) - nomads and travellers
+{% page-ref page="../../products/workew.md" %}
+
+
+
+### Paid travel communities
+
+{% page-ref page="../../products/nomadlist.md" %}
+
+
 

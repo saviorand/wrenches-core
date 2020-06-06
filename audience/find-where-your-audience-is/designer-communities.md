@@ -1,13 +1,18 @@
 # Designer communities
 
+### General designer communities
+
+{% page-ref page="../../products/untitled-9.md" %}
+
+{% page-ref page="../../products/behance.md" %}
+
+{% page-ref page="../../products/designernews.md" %}
 
 
-### Designers
 
-* [Dribbble](https://dribbble.com/)
-* [Behance](https://www.behance.net/)
-* [DeviantArt](https://www.deviantart.com/)
-* [Designer News](https://www.designernews.co/)
-* [Prototypr](https://community.prototypr.io/)
-* [designernews.co](http://designernews.co/)
+### UI/UX communities
+
+{% page-ref page="../../products/prototypr.md" %}
+
+
 

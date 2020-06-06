@@ -30,3 +30,7 @@
 
 
 
+### Developer subreddits
+
+> r/javascript; r/webdev; r/coding; r/gamedev; r/programming; r/developer r/opensource; r/opensourcegames; r/iosapps; r/androidapps r/androidapptesters; r/apps; r/webapps;
+

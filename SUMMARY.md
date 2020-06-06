@@ -11,7 +11,6 @@
   * [Designer communities](audience/find-where-your-audience-is/designer-communities.md)
   * [Travel and nomad communities](audience/find-where-your-audience-is/travel-and-nomad-communities.md)
   * [Creator communities](audience/find-where-your-audience-is/creator-communities.md)
-  * [General Slack communities](audience/find-where-your-audience-is/general-slack-communities.md)
   * [Local social platforms](audience/find-where-your-audience-is/local-social-platforms.md)
 * [Get to know your audience](audience/get-to-know-your-audience.md)
 
@@ -78,7 +77,18 @@
 * [SideProjects](products/sideprojects.md)
 * [GirlBoss](products/girlboss.md)
 * [Make](products/make.md)
-* [Untitled](products/untitled-9.md)
+* [Dribbble](products/untitled-9.md)
+* [Behance](products/behance.md)
+* [DeviantArt](products/deviantart.md)
+* [DesignerNews](products/designernews.md)
+* [Prototypr](products/prototypr.md)
+* [NomadList](products/nomadlist.md)
+* [Workew](products/workew.md)
+* [Write Together](products/write-together.md)
+* [Quora](products/quora.md)
+* [Reddit](products/reddit.md)
+* [Slack](products/slack.md)
+* [LinkedIn](products/linkedin.md)
 
 ## Methods
 

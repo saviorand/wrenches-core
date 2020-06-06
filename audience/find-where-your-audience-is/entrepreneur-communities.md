@@ -2,9 +2,17 @@
 
 
 
-### Entrepreneur subbredits
+### Entrepreneur subreddits
 
-> r/sideprojects; r/alphaandbetausers; r/betatests; r/usefulwebsites Tech-oriented r/javascript \(Showoff Saturday Threads\); r/webdev \(Showoff Saturday Threads\) r/coding; r/gamedev; r/programming \(Certain exceptions\); r/developer r/opensource; r/opensourcegames; r/iosapps; r/androidapps r/androidapptesters; r/apps; r/webapps; r/testmyapp
+> r/sideprojects; r/alphaandbetausers; r/betatests; r/usefulwebsites; r/testmyapp; r/javascript \(Showoff Saturday Threads\); r/webdev \(Showoff Saturday Threads\) r/programming \(with certain exceptions\); r/apps; r/webapps;
+
+
+
+### Facebook groups for entrepreneurs
+
+> Read with entrepreneurs book club, Intrepid entrepreneurs,  Freedom Hackers®️ Mastermind, Humans of online business, Savvy business owners, 60 second persuasion, Coffee with Dan, Entrepreneur Hustle, Freelance to Freedom project community
+
+ 
 
 ### Launch communities
 
