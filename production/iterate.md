@@ -1,14 +1,10 @@
 # Iterate
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Know something about this? Add your article here by tapping "Edit on GitHub" at the top of the page. I will show you as the author \(or let me know if you'd like to leave it anonymous\)
 {% endhint %}
 
-Once you're strong enough, save the world:
+### 
 
 
 

@@ -18,3 +18,11 @@ Talk less about yourself and more about them.
 
 It will come naturally that other community members will start recognizing you and pay close attention to your ideas and thoughts.
 
+
+
+
+
+{% hint style="info" %}
+Know something about this? Update this article by tapping "Edit on GitHub" at the top of the page. I will show you as a contributor \(or let me know if you'd like to leave it anonymous\)
+{% endhint %}
+

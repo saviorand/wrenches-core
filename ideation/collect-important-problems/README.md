@@ -1,6 +1,6 @@
 # Collect important problems
 
-**Discover problems to tackle from open idea banks \(yes, it's a thing\)**
+{% page-ref page="sources-of-ideas.md" %}
 
 
 
@@ -17,4 +17,8 @@
 {% page-ref page="surveying-potential-users.md" %}
 
 
+
+{% hint style="info" %}
+Know something about this? Add your article here by tapping "Edit on GitHub" at the top of the page. I will show you as the author \(or let me know if you'd like to leave it anonymous\)
+{% endhint %}
 

@@ -46,7 +46,7 @@
 
 ## Methods
 
-* [Untitled](methods/untitled.md)
+* [Company Building](methods/untitled.md)
 
 ## Teams
 
@@ -56,7 +56,7 @@
 
 ## Products
 
-* [Make my Persona](products/make-my-persona.md)
+* [Make My Persona](products/make-my-persona.md)
 * [Gumroad](products/gumroad.md)
 * [Twitter](products/twitter.md)
 * [Facebook](products/facebook.md)
