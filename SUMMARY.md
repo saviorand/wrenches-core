@@ -64,6 +64,21 @@
 * [HackForums](products/hackforums.md)
 * [AfroTech](products/afrotech.md)
 * [Elpha](products/elpha.md)
+* [Product Hunt](products/product-hunt.md)
+* [Indie Hackers](products/indie-hackers.md)
+* [Pioneer](products/pioneer.md)
+* [BetaList](products/betalist.md)
+* [BetaBound, BetaFamily](products/betabound-betafamily.md)
+* [Stripe Atlas](products/stripe-atlas.md)
+* [MegaMaker](products/megamaker.md)
+* [Instructables](products/instructables.md)
+* [ShipStreams](products/shipstreams.md)
+* [Makerlog](products/makerlog.md)
+* [WIP](products/wip.md)
+* [SideProjects](products/sideprojects.md)
+* [GirlBoss](products/girlboss.md)
+* [Make](products/make.md)
+* [Untitled](products/untitled-9.md)
 
 ## Methods
 

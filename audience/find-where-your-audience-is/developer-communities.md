@@ -2,7 +2,7 @@
 
 
 
-### Software developers
+### General tech communities
 
 {% page-ref page="../../products/hacker-news.md" %}
 
@@ -26,11 +26,7 @@
 
 {% page-ref page="../../products/afrotech.md" %}
 
-{% page-ref page="developer-communities.md" %}
+{% page-ref page="../../products/elpha.md" %}
 
-* [freeCodeCamp](https://www.freecodecamp.org/)
-* [Lobsters](http://lobste.rs/)
-* [HackForums](https://hackforums.net/)
-* [AfroTech](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwinh8PK-ZTpAhVJT8AKHfPzCZsQFjAAegQIChAC&url=https%3A%2F%2Fafrotech.com%2F&usg=AOvVaw27905hlLU6g92F6oV6PI6-)
-* [Elpha](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjrnYLX-ZTpAhXRnVwKHSWtB5MQFjAAegQICRAC&url=https%3A%2F%2Felpha.com%2F&usg=AOvVaw13hF5KEoqWSiFG7Mex6jDo)
+
 
